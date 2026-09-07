@@ -1,11 +1,9 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
 <p align="left"> 
   Data Analyst at Itaú, currently specializing in Advanced Artificial Intelligence at UFRGS.
 </p>
 
 <p align="left">
-I use this space to build and document projects around data, machine learning, and software. My main interest is solving real problems with simple, well-structured solutions and developing a deeper understanding of data science in practice.
+I use this space to build and document projects around data, machine learning, and software. I am mainly interested in understanding problems deeply and building practical solutions around them, regardless of the tools involved.
 </p>
 
 <p align="left">
